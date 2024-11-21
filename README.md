@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gestionproxima.com/wp-content/uploads/2023/09/PowerBI_Animation.gif" width="auto" height="auto"/>
+  <img src="https://gestionproxima.com/wp-content/uploads/2023/09/PowerBI_Animation.gif" width="400" height="auto"/>
 </div>
 <h1>
     <a href="https://elidianaandrade.github.io/">
