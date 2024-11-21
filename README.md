@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://gestionproxima.com/wp-content/uploads/2023/09/PowerBI_Animation.gif" width="auto" height="auto"/>
+</div>
 <h1>
     <a href="https://elidianaandrade.github.io/">
      <img align="center" alt="Logo Marco Alencastro" width="36px" src="https://cdn-icons-png.flaticon.com/512/246/246569.png"></a>
