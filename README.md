@@ -12,4 +12,4 @@
 
 ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=FFF&color:0E76A8)](https://www.linkedin.com/in/marco-alencastro/)
-[![Tableau](https://img.shields.io/badge/-Tableau-000?style=for-the-badge&logo=tableau&logoColor=FFF&color:FFF)](https://public.tableau.com/app/profile/marco.alencastro/)
+<!--[![Tableau](https://img.shields.io/badge/-Tableau-000?style=for-the-badge&logo=tableau&logoColor=FFF&color:FFF)](https://public.tableau.com/app/profile/marco.alencastro/)-->
