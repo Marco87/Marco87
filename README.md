@@ -8,10 +8,17 @@
 </h1>
 
 <p align="justify">
-  Olá! Seja bem-vindo ao meu perfil!
+  <b>Olá! Seja bem-vindo ao meu perfil!</b>
   <br>
-  Sou Analista de Dados. Se você quiser conhecer um pouco dos meus trabalhos com <b>Power BI</b> e <b>Python</b>, clique <a href="https://allen87.com.br" target="_blank">aqui</a>
+  <ul>
+    <li>💻 Sou Analista/Engenheiro de Dados, e atualmente trabalho na Ernst & Young.</li>
+    <li>📚 Tenho MBA em Data Science & Analytics pela USP/Esalq.</li>
+    <li>🔗 Para conhecer um pouco dos meus trabalhos com <b>Power BI</b> e <b>Python</b>, clique <a href="https://allen87.com.br" target="_blank">aqui</a></li>
+    <li>🛠️ Algumas ferramentas com que trabalho e que venho me aprimorando:</li>
+  </ul>
 </p>
+
+![Python](https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=FFF&color:0E76A8)](https://www.linkedin.com/in/marco-alencastro/)
