@@ -25,11 +25,11 @@
   <b>Certificações</b>
   <br>
   <ul>
-    <li>🏆PL-300</li>
-    <li>🏆AZ-900</li>
-    <li>🏆AI-900</li>
-    <li>🏆DP-900</li>
-    <li>🏆PL-900</li>
+    <li>🏆<b>PL-300</b> - Power BI Data Analyst Associate</li>
+    <li>🏆<b>AZ-900</b> - Microsoft Azure Fundamentals</li>
+    <li>🏆<b>AI-900</b> - Azure AI Fundamentals</li>
+    <li>🏆<b>DP-900</b> - Azure Data Fundamentals</li>
+    <li>🏆<b>PL-900</b> - Microsoft Power Platform Fundamentals</li>
   </ul>
 </p>
 
