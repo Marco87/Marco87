@@ -21,6 +21,19 @@
 ![Python](https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ##
+<p align="justify">
+  <b>Certificações</b>
+  <br>
+  <ul>
+    <li>🏆PL-300</li>
+    <li>🏆AZ-900</li>
+    <li>🏆AI-900</li>
+    <li>🏆DP-900</li>
+    <li>🏆PL-900</li>
+  </ul>
+</p>
+
+##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=FFF&color:0E76A8)](https://www.linkedin.com/in/marco-alencastro/)
 <!--[![Tableau](https://img.shields.io/badge/-Tableau-000?style=for-the-badge&logo=tableau&logoColor=FFF&color:FFF)](https://public.tableau.com/app/profile/marco.alencastro/)-->
 
