@@ -26,8 +26,8 @@
   <br>
   <ul>
     <li>🏆<b>PL-300</b> - Power BI Data Analyst Associate</li>
-    <li>🏆<b>AZ-900</b> - Microsoft Azure Fundamentals</li>
-    <li>🏆<b>AI-900</b> - Azure AI Fundamentals</li>
+    <li>🏆<b>AZ-900</b> - <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification" target="_blank">Microsoft Azure Fundamentals</a></li>
+    <li>🏆<b>AI-900</b> - <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification" target="_blank">Azure AI Fundamentals</a></li>
     <li>🏆<b>DP-900</b> - Azure Data Fundamentals</li>
     <li>🏆<b>PL-900</b> - Microsoft Power Platform Fundamentals</li>
   </ul>
