@@ -11,7 +11,7 @@
   <b>Olá! Seja bem-vindo ao meu perfil!</b>
   <br>
   <ul>
-    <li>💻 Sou Analista/Engenheiro de Dados, e atualmente trabalho na Ernst & Young.</li>
+    <li>💻 Sou Analista/Engenheiro de Dados, e atualmente trabalho na <a href="https://www.ey.com/en_br" target="_blank">Ernst & Young.</a></li>
     <li>📚 Tenho MBA em Data Science & Analytics pela USP/Esalq.</li>
     <li>🔗 Para conhecer um pouco dos meus trabalhos com <b>Power BI</b> e <b>Python</b>, clique <a href="https://allen87.com.br" target="_blank">aqui</a></li>
     <li>🛠️ Algumas ferramentas com que trabalho e que venho me aprimorando:</li>
