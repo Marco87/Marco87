@@ -8,13 +8,13 @@
 </h1>
 
 <p align="justify">
-  <b>Olá! Seja bem-vindo ao meu perfil!</b>
+  <b>Hi! Welcome to my profile!</b>
   <br>
   <ul>
-    <li>💻 Sou Analista/Engenheiro de Dados, e atualmente trabalho na <a href="https://www.ey.com/en_br" target="_blank">Ernst & Young.</a></li>
-    <li>📚 Tenho MBA em Data Science & Analytics pela <a href="https://mbauspesalq.com/" target="_blank">USP/Esalq.</a></li>
-    <li>🔗 Para conhecer um pouco dos meus trabalhos com <b>Power BI</b> e <b>Python</b>, clique <a href="https://allen87.com.br" target="_blank">aqui</a></li>
-    <li>🛠️ Algumas ferramentas com que trabalho e que venho me aprimorando:</li>
+    <li>💻 I'm a Data Analyst/Engineering, and actually I work at <a href="https://www.ey.com/en_br" target="_blank">Ernst & Young.</a></li>
+    <li>📚 I have a Data Science & Analytics MBA  by <a href="https://mbauspesalq.com/" target="_blank">USP/Esalq.</a></li>
+    <li>🔗 To know more about my personal jobs using <b>Power BI</b> and <b>Python</b>, click <a href="https://allen87.com.br" target="_blank">here</a></li>
+    <li>🛠️ Some tools that I use in my work and I have been improving:</li>
   </ul>
 </p>
 
