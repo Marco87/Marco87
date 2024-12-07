@@ -22,7 +22,7 @@
 
 ##
 <p align="justify">
-  <b>Certificações</b>
+  <b>Certifications</b>
   <br>
   <ul>
     <li>🏆<b>PL-300</b> - <a href="https://learn.microsoft.com/pt-br/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification" target="_blank">Power BI Data Analyst Associate</a></li>
