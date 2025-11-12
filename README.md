@@ -11,7 +11,7 @@
   <b>Hi! Welcome to my profile!</b>
   <br>
   <ul>
-    <li>💻 I'm a Data Analyst/Engineering, and actually I work at <a href="https://www.ey.com/en_br" target="_blank">Ernst & Young.</a></li>
+    <li>💻 I'm a Data Analyst/Engineering, and actually I work at <a href="https://senaisolucoesdigitais.com.br/" target="_blank">Senai Soluções Digitais.</a></li>
     <li>📚 I have a Data Science & Analytics MBA  by <a href="https://mbauspesalq.com/" target="_blank">USP/Esalq.</a></li>
     <li>🔗 To know more about my personal jobs using <b>Power BI</b> and <b>Python</b>, click <a href="https://allen87.com.br" target="_blank">here</a></li>
     <li>🛠️ Some tools that I use in my work and I have been improving:</li>
